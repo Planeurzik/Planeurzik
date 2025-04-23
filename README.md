@@ -1,6 +1,6 @@
-# Welcome to my GitHub :)
 
-## 🌟 About Me
+---
+<h1 align="center">🌟 About Me</h1>
 
 Hello there! I'm Philippe Gratias-Quiquandon, a student at [**Télécom Paris**](https://www.telecom-paris.fr) pursuing a double degree at [**MVA - ENS Paris-Saclay**](https://www.master-mva.com/). My work focuses on machine learning, reinforcement learning, robotics, computer vision, generative AI and more, exploring their mathematical foundations to solve real-world problems.
 
