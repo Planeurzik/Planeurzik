@@ -2,13 +2,15 @@
 ---
 <h1 align="center">🌟 About Me</h1>
 
-Hello there! I'm Philippe Gratias-Quiquandon, a student at [**Télécom Paris**](https://www.telecom-paris.fr) pursuing a double degree at [**MVA - ENS Paris-Saclay**](https://www.master-mva.com/). My work focuses on machine learning, reinforcement learning, robotics, computer vision, generative AI and more, exploring their mathematical foundations to solve real-world problems.
+Hello there! I'm Philippe Gratias-Quiquandon, a student at [**🏫 Télécom Paris**](https://www.telecom-paris.fr) pursuing a double degree at [**🏫 MVA - ENS Paris-Saclay**](https://www.master-mva.com/).
+
+My work focuses on 🤖 machine learning, 🧠 reinforcement learning, 🦾 robotics, 👁️ computer vision, 🎨 generative AI and more, exploring their mathematical foundations to solve real-world problems.
 
 ## 🎯 Academic Pursuits
 
-- **Télécom Paris**: Learned global knowledge in **Computer Science**, **Mathematics** and in **Electronics**, then specialized in **Computer Vision** and **Signal Processing and AI**.
-- **ENS Paris-Saclay**: Engaged in the MVA Master’s program, focusing on advanced topics and techniques such as **Reinforcement Learning**, **Robotics**, **Generative Models**, **Audio Processing**, **Large Language Models**, **Convex Optimization** and more...
-- **Research Interests**: Exploring innovative methods in reinforcement learning, robotics, audio processing and deep learning in general.
+- **🏫 Télécom Paris**: Learned global knowledge in **Computer Science**, **Mathematics** and in **Electronics**, then specialized in **Computer Vision** and **Signal Processing and AI**.
+- **🏫 ENS Paris-Saclay**: Engaged in the MVA Master’s program, focusing on advanced topics and techniques such as **Reinforcement Learning**, **Robotics**, **Generative Models**, **Audio Processing**, **Large Language Models**, **Convex Optimization** and more...
+- **🔬 Research Interests**: Exploring innovative methods in reinforcement learning, robotics, audio processing and deep learning in general.
 
 ## 🛠️ Technical Skills
 
