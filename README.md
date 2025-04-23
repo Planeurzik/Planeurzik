@@ -16,8 +16,6 @@ Hello there! I'm Philippe Gratias-Quiquandon, a student at [**Télécom Paris**]
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,latex,pytorch,bash,ros">
 </p>
 
-## 📈 GitHub Stats
-
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Planeurzik&show_icons=true&theme=merko&hide_border=true&hide=issues,stars&bg_color=00000000&rank_icon=github">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Planeurzik&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=6">
