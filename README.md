@@ -8,8 +8,8 @@ My work focuses on 🤖 machine learning, 🧠 reinforcement learning, 🦾 robo
 
 ## 🎯 Academic Pursuits
 
-- **🏫 Télécom Paris**: Learned global knowledge in **<span style="color:blue;font-weight:bold;">Computer Science</span>**, **<span style="color:blue;font-weight:bold;">Mathematics</span>** and in **<span style="color:blue;font-weight:bold;">Electronics</span>**, then specialized in **<span style="color:blue;font-weight:bold;">Computer Vision</span>** and **<span style="color:blue;font-weight:bold;">Signal Processing and AI</span>**.
-- **🏫 ENS Paris-Saclay**: Engaged in the MVA Master’s program, focusing on advanced topics and techniques such as **<span style="color:blue;font-weight:bold;">Reinforcement Learning</span>**, **<span style="color:blue;font-weight:bold;">Robotics</span>**, **<span style="color:blue;font-weight:bold;">Generative Models</span>**, **<span style="color:blue;font-weight:bold;">Audio Processing</span>**, **<span style="color:blue;font-weight:bold;">Large Language Models</span>**, **<span style="color:blue;font-weight:bold;">Convex Optimization</span>** and more...
+- **🏫 Télécom Paris**: Learned global knowledge in **Computer Science**, **Mathematics** and in **Electronics**, then specialized in **Computer Vision** and **Signal Processing and AI**.
+- **🏫 ENS Paris-Saclay**: Engaged in the MVA Master’s program, focusing on advanced topics and techniques such as **Reinforcement Learning**, **Robotics**, **Generative Models**, **Audio Processing**, **Large Language Models**, **Convex Optimization** and more...
 - **🔬 Research Interests**: Exploring innovative methods in reinforcement learning, robotics, audio processing and deep learning in general.
 
 ## 🛠️ Technical Skills
