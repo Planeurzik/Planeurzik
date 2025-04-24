@@ -6,7 +6,7 @@ Hello there! I'm Philippe Gratias-Quiquandon, a student at [**🏫 Télécom Par
 
 💼 : My work focuses on 🤖 machine learning, 🧠 reinforcement learning, 🦾 robotics, 👁️ computer vision, 🎨 generative AI and more, exploring their mathematical foundations to solve real-world problems.
 
-📝 : If you want to see more, [come here!](https://google.com)
+📝 : If you want to reach me out or see more of my projects, [**here it is!**](https://google.com)
 
 ## 🎯 Academic Pursuits
 
