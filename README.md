@@ -4,7 +4,9 @@
 
 Hello there! I'm Philippe Gratias-Quiquandon, a student at [**🏫 Télécom Paris**](https://www.telecom-paris.fr) pursuing a double degree at [**🏫 MVA - ENS Paris-Saclay**](https://www.master-mva.com/).
 
-My work focuses on 🤖 machine learning, 🧠 reinforcement learning, 🦾 robotics, 👁️ computer vision, 🎨 generative AI and more, exploring their mathematical foundations to solve real-world problems.
+💼 : My work focuses on 🤖 machine learning, 🧠 reinforcement learning, 🦾 robotics, 👁️ computer vision, 🎨 generative AI and more, exploring their mathematical foundations to solve real-world problems.
+
+📝 : If you want to see more, [come here!](https://google.com)
 
 ## 🎯 Academic Pursuits
 
