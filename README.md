@@ -21,6 +21,6 @@ Hello there! I'm Philippe Gratias-Quiquandon, a student at [**🏫 Télécom Par
 </p>
 
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Planeurzik&show_icons=true&theme=github_dark_dimmed&hide_border=true&hide=issues,stars&bg_color=00000000&rank_icon=github">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Planeurzik&layout=compact&hide_border=true&theme=github_dark_dimmed&bg_color=00000000&langs_count=6">
+  <img height="auto" width="auto" src="https://github-readme-stats.vercel.app/api?username=Planeurzik&show_icons=true&theme=github_dark_dimmed&hide_border=true&hide=issues,stars&bg_color=00000000&rank_icon=github">
+  <img height="auto" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Planeurzik&layout=compact&hide_border=true&theme=github_dark_dimmed&bg_color=00000000&langs_count=6">
 </p>
